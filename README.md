@@ -1,17 +1,16 @@
 
-# Analysis Sales Data - 1 (Using Python)
+# Analysis Sales Data - 1
 
 This program analyzes sales data to identify trends and patterns.
 
 ### Data Details
 
-Product Data (CSV):
-- Product ID: Unique identifier for each product
-- Product Name: Name of the product
-Historical Sales Data (CSV):
-- Date (format: YYYY-MM-DD)
-- Product ID: Reference to product in product data
-- Quantity Sold: Number of units sold on that day
+The data is assumed to be a CSV file named "sales_data.csv" containing the following columns:
+
+- Product: Name of the product
+- Quantity: Number of units sold
+- Price: Price per unit
+- Date: Date of the sale (format: YYYY-MM-DD)
 
 ### Steps to follow :
 
